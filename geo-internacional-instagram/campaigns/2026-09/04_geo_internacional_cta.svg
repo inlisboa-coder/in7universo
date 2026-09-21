@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#07111D"/>
+  <stop offset="55%" stop-color="#0B1F33"/>
+  <stop offset="100%" stop-color="#111B24"/>
+ </linearGradient>
+ <radialGradient id="glow" cx="50%" cy="40%" r="65%">
+  <stop offset="0%" stop-color="#174A6D" stop-opacity=".65"/>
+  <stop offset="55%" stop-color="#0D263C" stop-opacity=".15"/>
+  <stop offset="100%" stop-color="#07111D" stop-opacity="0"/>
+ </radialGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#F3D27A"/>
+  <stop offset="55%" stop-color="#D6A84B"/>
+  <stop offset="100%" stop-color="#9C6D24"/>
+ </linearGradient>
+ <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse">
+  <path d="M 54 0 L 0 0 0 54" fill="none" stroke="#8FB0C8" stroke-opacity=".09" stroke-width="1"/>
+ </pattern>
+</defs>
+<rect width="1080" height="1350" fill="url(#bg)"/>
+<rect width="1080" height="1350" fill="url(#glow)"/>
+<rect width="1080" height="1350" fill="url(#grid)"/>
+
+<text x="76" y="92" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" letter-spacing="2">GEO</text>
+<text x="166" y="92" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" letter-spacing="1">INTERNACIONAL</text>
+<text x="76" y="132" fill="#9EB1C8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="3">@geointernacional</text>
+<line x1="76" y1="158" x2="1004" y2="158" stroke="#2D4159" stroke-width="2"/>
+
+
+<circle cx="540" cy="470" r="240" fill="#0A2236" stroke="url(#gold)" stroke-width="7"/>
+<circle cx="540" cy="470" r="182" fill="none" stroke="#4D7592" stroke-opacity=".5" stroke-width="2"/>
+<path d="M420 390 C470 345 525 360 560 388 C597 417 635 410 674 452 C703 484 684 530 645 544 C602 560 583 601 536 596 C494 592 467 557 428 549 C389 541 364 503 378 467 C390 437 398 410 420 390Z" fill="#D6A84B" fill-opacity=".20"/>
+<path d="M540 216 V724 M286 470 H794" stroke="#88A5BA" stroke-opacity=".18" stroke-width="2"/>
+<circle cx="540" cy="470" r="10" fill="#F3D27A"/>
+
+<text x="540" y="820" text-anchor="middle" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="86" font-weight="900">SEGUE O MUNDO</text>
+<text x="540" y="892" text-anchor="middle" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="800">@geointernacional</text>
+<text x="540" y="964" text-anchor="middle" fill="#A9BACB" font-family="Arial,Helvetica,sans-serif" font-size="30">Geopolítica · geoeconomia · relações internacionais</text>
+<text x="540" y="1008" text-anchor="middle" fill="#A9BACB" font-family="Arial,Helvetica,sans-serif" font-size="30">defesa · tecnologia · energia · mapas · dados</text>
+
+<g transform="translate(214,1082)">
+ <rect width="652" height="92" rx="46" fill="url(#gold)"/>
+ <text x="326" y="58" text-anchor="middle" fill="#07111D" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="900">SEGUE · GUARDA · PARTILHA</text>
+</g>
+
+<text x="76" y="1298" fill="#8EA5BB" font-family="Arial,Helvetica,sans-serif" font-size="20">www.inmundi.com</text>
+<text x="1004" y="1298" text-anchor="end" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">INMUNDI</text>
+</svg>
