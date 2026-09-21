@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#07111D"/>
+  <stop offset="55%" stop-color="#0B1F33"/>
+  <stop offset="100%" stop-color="#111B24"/>
+ </linearGradient>
+ <radialGradient id="glow" cx="50%" cy="40%" r="65%">
+  <stop offset="0%" stop-color="#174A6D" stop-opacity=".65"/>
+  <stop offset="55%" stop-color="#0D263C" stop-opacity=".15"/>
+  <stop offset="100%" stop-color="#07111D" stop-opacity="0"/>
+ </radialGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#F3D27A"/>
+  <stop offset="55%" stop-color="#D6A84B"/>
+  <stop offset="100%" stop-color="#9C6D24"/>
+ </linearGradient>
+ <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse">
+  <path d="M 54 0 L 0 0 0 54" fill="none" stroke="#8FB0C8" stroke-opacity=".09" stroke-width="1"/>
+ </pattern>
+</defs>
+<rect width="1080" height="1350" fill="url(#bg)"/>
+<rect width="1080" height="1350" fill="url(#glow)"/>
+<rect width="1080" height="1350" fill="url(#grid)"/>
+
+<text x="76" y="92" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" letter-spacing="2">GEO</text>
+<text x="166" y="92" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" letter-spacing="1">INTERNACIONAL</text>
+<text x="76" y="132" fill="#9EB1C8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="3">@geointernacional</text>
+<line x1="76" y1="158" x2="1004" y2="158" stroke="#2D4159" stroke-width="2"/>
+
+
+<text x="76" y="278" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="74" font-weight="900">MAIS CONTEXTO.</text>
+<text x="76" y="360" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="74" font-weight="900">MENOS RUÍDO.</text>
+<text x="76" y="420" fill="#A9BACB" font-family="Arial,Helvetica,sans-serif" font-size="28">Ligar factos, mapas, interesses e consequências.</text>
+
+<g transform="translate(540,730)">
+ <circle r="305" fill="#091A29" stroke="#35566F" stroke-width="2"/>
+ <circle r="242" fill="none" stroke="#35566F" stroke-width="2" stroke-dasharray="10 12"/>
+ <circle r="175" fill="none" stroke="#D6A84B" stroke-opacity=".5" stroke-width="2"/>
+ <circle r="92" fill="#0F314B" stroke="#D6A84B" stroke-width="4"/>
+ <circle r="16" fill="#F3D27A"/>
+ <path d="M0 0 L215 -125 M0 0 L-225 -95 M0 0 L-150 190 M0 0 L196 175 M0 0 L55 -245" stroke="#D6A84B" stroke-opacity=".65" stroke-width="3"/>
+ <circle cx="215" cy="-125" r="18" fill="#0F314B" stroke="#D6A84B" stroke-width="3"/>
+ <circle cx="-225" cy="-95" r="18" fill="#0F314B" stroke="#D6A84B" stroke-width="3"/>
+ <circle cx="-150" cy="190" r="18" fill="#0F314B" stroke="#D6A84B" stroke-width="3"/>
+ <circle cx="196" cy="175" r="18" fill="#0F314B" stroke="#D6A84B" stroke-width="3"/>
+ <circle cx="55" cy="-245" r="18" fill="#0F314B" stroke="#D6A84B" stroke-width="3"/>
+</g>
+<text x="540" y="720" text-anchor="middle" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800">CONTEXTO</text>
+<text x="755" y="598" fill="#A9BACB" font-family="Arial,Helvetica,sans-serif" font-size="24">PODER</text>
+<text x="238" y="628" fill="#A9BACB" font-family="Arial,Helvetica,sans-serif" font-size="24">ECONOMIA</text>
+<text x="307" y="958" fill="#A9BACB" font-family="Arial,Helvetica,sans-serif" font-size="24">HISTÓRIA</text>
+<text x="742" y="963" fill="#A9BACB" font-family="Arial,Helvetica,sans-serif" font-size="24">TECNOLOGIA</text>
+<text x="590" y="476" fill="#A9BACB" font-family="Arial,Helvetica,sans-serif" font-size="24">GEOGRAFIA</text>
+
+<text x="76" y="1120" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800">Não apenas “o que aconteceu”.</text>
+<text x="76" y="1170" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800">Também “porquê” e “o que pode significar”.</text>
+
+<text x="76" y="1298" fill="#8EA5BB" font-family="Arial,Helvetica,sans-serif" font-size="20">www.inmundi.com</text>
+<text x="1004" y="1298" text-anchor="end" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">INMUNDI</text>
+</svg>
