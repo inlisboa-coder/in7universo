@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#07111D"/>
+  <stop offset="55%" stop-color="#0B1F33"/>
+  <stop offset="100%" stop-color="#111B24"/>
+ </linearGradient>
+ <radialGradient id="glow" cx="50%" cy="40%" r="65%">
+  <stop offset="0%" stop-color="#174A6D" stop-opacity=".65"/>
+  <stop offset="55%" stop-color="#0D263C" stop-opacity=".15"/>
+  <stop offset="100%" stop-color="#07111D" stop-opacity="0"/>
+ </radialGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#F3D27A"/>
+  <stop offset="55%" stop-color="#D6A84B"/>
+  <stop offset="100%" stop-color="#9C6D24"/>
+ </linearGradient>
+ <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse">
+  <path d="M 54 0 L 0 0 0 54" fill="none" stroke="#8FB0C8" stroke-opacity=".09" stroke-width="1"/>
+ </pattern>
+</defs>
+<rect width="1080" height="1350" fill="url(#bg)"/>
+<rect width="1080" height="1350" fill="url(#glow)"/>
+<rect width="1080" height="1350" fill="url(#grid)"/>
+
+<text x="76" y="92" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" letter-spacing="2">GEO</text>
+<text x="166" y="92" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" letter-spacing="1">INTERNACIONAL</text>
+<text x="76" y="132" fill="#9EB1C8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="3">@geointernacional</text>
+<line x1="76" y1="158" x2="1004" y2="158" stroke="#2D4159" stroke-width="2"/>
+
+
+<text x="76" y="262" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="900">INFORMAÇÃO</text>
+<text x="76" y="342" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="900">VISUAL</text>
+<text x="76" y="405" fill="#A9BACB" font-family="Arial,Helvetica,sans-serif" font-size="28">Dados complexos. Leitura rápida. Contexto claro.</text>
+
+<g transform="translate(76,470)">
+ <rect x="0" y="0" width="440" height="150" rx="24" fill="#0D2A42" stroke="#2E536F"/>
+ <circle cx="62" cy="75" r="32" fill="none" stroke="url(#gold)" stroke-width="4"/>
+ <path d="M44 75 H80 M62 57 V93" stroke="#D6A84B" stroke-width="4"/>
+ <text x="120" y="62" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="800">GEOPOLÍTICA</text>
+ <text x="120" y="101" fill="#9EB1C8" font-family="Arial,Helvetica,sans-serif" font-size="21">poder · alianças · conflitos</text>
+</g>
+<g transform="translate(564,470)">
+ <rect x="0" y="0" width="440" height="150" rx="24" fill="#0D2A42" stroke="#2E536F"/>
+ <path d="M40 102 L58 68 L78 86 L102 50" stroke="#D6A84B" stroke-width="5" fill="none"/>
+ <circle cx="102" cy="50" r="7" fill="#D6A84B"/>
+ <text x="130" y="62" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="800">GEOECONOMIA</text>
+ <text x="130" y="101" fill="#9EB1C8" font-family="Arial,Helvetica,sans-serif" font-size="21">energia · comércio · recursos</text>
+</g>
+<g transform="translate(76,660)">
+ <rect x="0" y="0" width="440" height="150" rx="24" fill="#0D2A42" stroke="#2E536F"/>
+ <path d="M55 46 L92 58 V85 C92 108 76 120 55 127 C34 120 18 108 18 85 V58Z" fill="none" stroke="#D6A84B" stroke-width="4"/>
+ <text x="120" y="62" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="800">DEFESA</text>
+ <text x="120" y="101" fill="#9EB1C8" font-family="Arial,Helvetica,sans-serif" font-size="21">segurança · estratégia · meios</text>
+</g>
+<g transform="translate(564,660)">
+ <rect x="0" y="0" width="440" height="150" rx="24" fill="#0D2A42" stroke="#2E536F"/>
+ <rect x="29" y="42" width="64" height="64" rx="10" fill="none" stroke="#D6A84B" stroke-width="4"/>
+ <path d="M45 42 V28 M61 42 V28 M77 42 V28 M45 106 V120 M61 106 V120 M77 106 V120 M29 58 H15 M29 76 H15 M93 58 H107 M93 76 H107" stroke="#D6A84B" stroke-width="3"/>
+ <text x="130" y="62" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="800">TECNOLOGIA</text>
+ <text x="130" y="101" fill="#9EB1C8" font-family="Arial,Helvetica,sans-serif" font-size="21">IA · drones · espaço · ciber</text>
+</g>
+<g transform="translate(76,850)">
+ <rect x="0" y="0" width="928" height="215" rx="28" fill="#0A1A29" stroke="#263E54"/>
+ <text x="44" y="67" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="800" letter-spacing="2">EM CADA PUBLICAÇÃO</text>
+ <text x="44" y="122" fill="#F4F7FA" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="800">Mapas · rankings · cronologias · explicadores</text>
+ <text x="44" y="167" fill="#9EB1C8" font-family="Arial,Helvetica,sans-serif" font-size="25">Mais contexto para compreender o que está a mudar no mundo.</text>
+</g>
+
+<text x="76" y="1298" fill="#8EA5BB" font-family="Arial,Helvetica,sans-serif" font-size="20">www.inmundi.com</text>
+<text x="1004" y="1298" text-anchor="end" fill="#D6A84B" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">INMUNDI</text>
+</svg>
