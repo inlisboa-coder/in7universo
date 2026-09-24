@@ -1,0 +1,10 @@
+---
+# TEMPLATE ONLY — rename to .cpanel.yml only after WebTuga confirms both document roots.
+deployment:
+  tasks:
+    - export INMUNDI_PATH=$HOME/public_html/inmundi/
+    - export GEO_PATH=$HOME/public_html/geointernacional/
+    - /bin/mkdir -p $INMUNDI_PATH
+    - /bin/mkdir -p $GEO_PATH
+    - /bin/cp -R dist/. $INMUNDI_PATH
+    - /bin/cp -R dist/. $GEO_PATH
